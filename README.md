@@ -1,4 +1,4 @@
-# IMDB 5000 Movie Analysis Dashboard
+# IMDB 5000 Movie Analysis 
 
 ## 📊 SQL Queries & Visualizations
 
